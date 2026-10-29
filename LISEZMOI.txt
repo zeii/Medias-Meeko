@@ -1,0 +1,25 @@
+Médias Meeko
+============
+
+Récupère les photos et vidéos publiées par la crèche sur Meeko Family.
+Rien d'autre à installer. Nécessite macOS 12 ou plus récent.
+
+Installation
+------------
+1. Glisse « Médias Meeko.app » dans le dossier Applications.
+2. Premier lancement : macOS bloque les apps qui ne viennent pas de l'App Store.
+   - Double-clique sur l'app, ferme le message d'alerte.
+   - Ouvre Réglages Système > Confidentialité et sécurité, descends en bas,
+     clique « Ouvrir quand même » à côté de Médias Meeko, puis confirme.
+   - Sur un macOS plus ancien : clic droit sur l'app > Ouvrir > Ouvrir.
+   Ensuite, un double-clic suffit.
+
+Utilisation
+-----------
+- Connecte-toi avec ton compte Meeko Family.
+- Choisis une période, clique « Afficher ».
+- Clic sur une miniature pour la voir en grand, rond en haut à droite pour (dé)sélectionner.
+- « Télécharger » enregistre les médias dans Images/Meeko (modifiable).
+
+Ton mot de passe n'est jamais enregistré : seul le jeton de connexion Meeko est gardé
+sur ton Mac, dans ~/.config/meeko/token.json.

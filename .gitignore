@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+# Built by make_app.sh; only the zip is shared.
+/Médias Meeko.app/
+/dist/Medias-Meeko/
